@@ -9,10 +9,73 @@
         "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/guandongzhu.png"
       ],
       "descs": [
+        "你不是想吃它，你只是懒得再想了",
+        "这不是选择，这是投降",
+        "再纠结下去你可以直接吃晚饭",
+        "安全选项，是你最后的倔强",
+        "你以为在思考，其实在拖延",
+        "这一口，吃的是放弃",
+        "你选的不是它，是“算了”",
+        "纠结到最后，总会回到这里",
+        "这顿饭没有惊喜，但有确定性",
+        "你赢不了选择，只能结束它",
+        "你已经想累了，吃点简单的吧",
+        "这不是最佳答案，是最省事的答案",
+        "你只是需要一个结束按钮",
+        "想不明白的事，就别想了",
+        "最后选的，往往是最熟的"
+      ]
+    },
+    {
+      "type": "随便吃点",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/doujiangyoutiao.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/fantuan.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/shouzhuabing.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/sudongjiaozi.png"
+      ],
+      "descs": [
         "别骗自己了，你今天就到这了",
         "这不是吃饭，是维持生命",
         "你不是随便，你是放弃了",
-        "能吃就行，是今天的底线"
+        "能吃就行，是今天的底线",
+        "你在喂身体，不是在享受",
+        "这一顿的目标只有一个：活着",
+        "不难吃，就是胜利",
+        "你已经没有多余的力气挑剔了",
+        "今天的你，不配复杂",
+        "这口下去，是对生活的最低回应",
+        "吃完别想太多，继续活着",
+        "简单点，对自己宽容一点",
+        "你已经很努力了，别再折腾自己",
+        "这顿饭，讲究一个效率",
+        "能解决饥饿，就够了"
+      ]
+    },
+    {
+      "type": "整点好的",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/buduiguo.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/kaoyangtui.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/pisa.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/shaokao.png"
+      ],
+      "descs": [
+        "这一顿，给生活一个交代",
+        "你配得上这份热量",
+        "快乐优先，其他靠边",
+        "今天不是节日，但你可以当作是",
+        "吃好点，是你对自己的基本尊重",
+        "这一口，不需要理由",
+        "你不一定值得，但你想要",
+        "花钱买快乐，是最稳定的投资",
+        "今天的你，决定对自己好一点",
+        "这顿饭，是你和生活和解的方式",
+        "偶尔奢侈一下，没关系",
+        "钱可以再赚，快乐要及时",
+        "你需要的不是饭，是奖励",
+        "今天允许自己放纵一下",
+        "这一顿，吃的是心情"
       ]
     }
   ]
