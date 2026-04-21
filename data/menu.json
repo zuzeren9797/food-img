@@ -1,12 +1,12 @@
 {
   "groups": [
     {
-      "type": "摆烂生存",
+      "type": "正在纠结",
       "images": [
-        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img/image/baozaifan.png",
-        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img/image/chaomian.png",
-        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img/image/chaofan.png",
-        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img/image/guandongzhu.png"
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/baozaifan.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/chaomian.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/chaofan.png",
+        "https://cdn.jsdelivr.net/gh/zuzeren9797/food-img@main/image/guandongzhu.png"
       ],
       "descs": [
         "别骗自己了，你今天就到这了",
