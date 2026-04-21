@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "type": "摆烂生存",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/niven/food-assets/food-img/image/%E7%85%B2%E4%BB%94%E9%A5%AD.png",
+        "https://cdn.jsdelivr.net/gh/niven/food-assets/food-img/image/%E7%82%92%E9%9D%A2.png",
+        "https://cdn.jsdelivr.net/gh/niven/food-assets/food-img/image/%E7%82%92%E9%A5%AD.png",
+        "https://cdn.jsdelivr.net/gh/niven/food-assets/food-img/image/%E5%85%B3%E4%B8%9C%E7%85%AE.png"
+      ],
+      "descs": [
+        "别骗自己了，你今天就到这了",
+        "这不是吃饭，是维持生命",
+        "你不是随便，你是放弃了",
+        "能吃就行，是今天的底线"
+      ]
+    }
+  ]
+}
